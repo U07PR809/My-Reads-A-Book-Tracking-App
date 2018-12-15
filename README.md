@@ -27,8 +27,8 @@ The project follows the guidelines of [Udacity Project Rubric](https://review.ud
 ## Dependencies
 
 To run the project, the following applications are used:
-_ [npm](https://www.npmjs.com/)
-_ [Node](https://nodejs.org/en/)
+    -   [npm](https://www.npmjs.com/)
+    -   [Node](https://nodejs.org/en/)
 
 ## Directory Structure
 
