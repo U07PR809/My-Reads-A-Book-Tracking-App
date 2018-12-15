@@ -1,3 +1,4 @@
+
 # Project 6: My Reads: A Book Tracking App
 
 # Table of Contents
@@ -27,8 +28,8 @@ The project follows the guidelines of [Udacity Project Rubric](https://review.ud
 ## Dependencies
 
 To run the project, the following applications are used:
-    -   [npm](https://www.npmjs.com/)
-    -   [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [Node](https://nodejs.org/en/)
 
 ## Directory Structure
 
