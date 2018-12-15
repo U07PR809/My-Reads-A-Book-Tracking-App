@@ -20,9 +20,9 @@ The project follows the guidelines of [Udacity Project Rubric](https://review.ud
 
 -   Either clone the repository locally to your machine or simply download the project as a zip file.
 -   Once downloaded, navigate to the directory of the project and run these two commands:
-    _ npm install
-    _ npm start
-    A new window opens in the browser displaying the app. If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
+    *  npm install
+    *  npm start
+-  A new window opens in the browser displaying the app. If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
 
 ## Dependencies
 
